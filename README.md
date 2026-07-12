@@ -3,7 +3,7 @@
   <img alt="Xai" src="https://img.shields.io/badge/Xai-Intelligence%20Workspace-06b6d4?style=flat-square&labelColor=0a0c11" />
 </p>
 
-<h1 align="center">Xai — Intelligence Workspace</h1>
+<h1 align="center">Xai — Intelligence</h1>
 
 <p align="center">
   <strong>From raw data to structured intelligence.</strong><br />
@@ -11,8 +11,7 @@
 </p>
 
 ---
-
-## Project Overview & Technical Approach
+## Project Overview & Technical Approach { [Live](https://xai-intelligence-eight.vercel.app/) }
 
 Xai is a single-page marketing and demonstration site built with **Next.js 16 (App Router)**. It walks users through a visual narrative mirroring the intelligence pipeline:
 
@@ -81,7 +80,7 @@ npm start
 
 A detailed technical walkthrough explaining the design, math, and motion choices behind every section is available here:
 
-📺 **Watch the full walkthrough:** *[Insert Google Drive or YouTube link here]*
+📺 **Watch the full walkthrough:** *[Video](https://drive.google.com/file/d/1DsanshOBNUVn7S0baN5CzH7YENThfMVw/view?usp=sharing)*
 
 The walkthrough covers:
 - **Hero Section** — GSAP staggered entrance with blurred-to-sharp reveals and the Three.js chaos-to-order particle morph.
